@@ -1,0 +1,19 @@
+body {
+    background-color: whitesmoke
+}
+.logo img {
+    max-width: 200px;
+    max-height: 200px;
+}
+.footer {
+    display:flex;
+    justify-content: flex-start;
+}
+.socialmedia img {
+    max-width: 40px;
+    max-height: 40px;
+    padding:0.5em
+}
+.socialmedia img:hover {
+    background-color:skyblue
+}
